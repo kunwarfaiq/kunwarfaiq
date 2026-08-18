@@ -236,8 +236,6 @@ srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-sn
 src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
 </picture>
 </p>
-<div align="center">
-
   
 
 ## 📬 Connect
