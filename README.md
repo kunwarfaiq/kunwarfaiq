@@ -208,12 +208,10 @@ _Certifications in progress — this section will be updated as credentials are 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kunwarfaiq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=7C3AED&text_color=c9c9c9&ring_color=8B5CF6" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunwarfaiq&theme=tokyonight&hide_border=true&background=0d0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunwarfaiq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9c9c9" width="48%" />
 
 </div>
 
