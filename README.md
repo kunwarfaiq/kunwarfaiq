@@ -33,9 +33,11 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme-cover/master/assets/lines.gif" width="100%" />
 
-## 🪷 About Me
+## 📌About Me
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+
+<br/>
 
 I'm a final-year Data Science engineer who builds systems at the intersection of **applied machine learning**, **agentic AI orchestration**, and **full-stack product engineering**. My work spans designing multi-agent pipelines with traceable reasoning, building RAG and semantic search systems, and shipping end-to-end products from data pipeline to deployed interface.
 
