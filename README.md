@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:010409,50:0D2818,100:238636&height=280&section=header&text=Kunwar%20Faiq%20Azeem&fontSize=52&fontColor=E6EDF3&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Data%20Science&descAlignY=55&descSize=18&stroke=3FB950&strokeWidth=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:010409,50:0D2818,100:238636&height=200&section=header&text=Kunwar%20Faiq%20Azeem&fontSize=52&fontColor=E6EDF3&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Data%20Science&descAlignY=55&descSize=18&stroke=3FB950&strokeWidth=3" width="100%"/>
 
 <br/>
 
@@ -255,7 +255,5 @@ src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake
 <div align="center">
 
 *"Build systems that reason, not just respond."*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:238636,50:0D2818,100:010409&height=140&section=footer&stroke=3FB950&strokeWidth=3" width="100%"/>
 
 </div>
