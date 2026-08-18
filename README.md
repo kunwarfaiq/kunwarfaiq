@@ -16,10 +16,10 @@
 
 <br/><br/>
 
-<a href="https://github.com/kunwarfaiq">
-<a href="https://linkedin.com/in/kunwarfaiq">
-<a href="mailto:kunwarfaiq@gmail.com"></a>
-<a href="https://github.com/kunwarfaiq"></a>
+<a href="https://github.com/kunwarfaiq"><img src="https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://linkedin.com/in/kunwarfaiq"><img src="https://img.shields.io/badge/LinkedIn-238636?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
+<a href="mailto:kunwarfaiq@gmail.com"><img src="https://img.shields.io/badge/Email-238636?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://github.com/kunwarfaiq"><img src="https://img.shields.io/badge/GitHub-238636?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
 
 <br/><br/>
 
@@ -170,8 +170,6 @@ Led the media and design department for the university's premier tech society, o
 | 🎓 **Academic Standing** | CGPA 3.43/4.00 through 6th semester, BS Data Science, DHA Suffa University |
 | 📊 **Course Excellence** | Grade A — Data Warehousing & Business Intelligence (DS-3405) |
 
-</div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme-cover/master/assets/lines.gif" width="100%" />
 
 ## 📜 Certifications
@@ -210,6 +208,8 @@ _Certifications in progress — this section will be updated as credentials are 
 
 <br/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=kunwarfaiq&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=3FB950&text_color=8B949E" width="48%" />
+
 </div>
 
 ## 📈 Contribution Activity
@@ -224,7 +224,6 @@ _Certifications in progress — this section will be updated as credentials are 
 
 ## 🐍 Contribution Snake
 
-</div>
 <p align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)"
@@ -255,5 +254,3 @@ src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake
 *"Build systems that reason, not just respond."*
 
 </div>
-
-
