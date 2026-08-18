@@ -17,7 +17,7 @@
 <br/><br/>
 
 <a href="https://github.com/kunwarfaiq"><img src="https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
-<a href="https://linkedin.com/in/kunwarfaiq"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/kunwarfaiq"><img src="https://img.shields.io/badge/LinkedIn-238636?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:kunwarfaiq@gmail.com"><img src="https://img.shields.io/badge/Email-238636?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
 <a href="https://github.com/kunwarfaiq"><img src="https://img.shields.io/badge/GitHub-238636?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
 
@@ -220,8 +220,6 @@ _Certifications in progress — this section will be updated as credentials are 
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme-cover/master/assets/lines.gif" width="100%" />
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -241,7 +239,7 @@ src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake
 <div align="center">
 
 <a href="mailto:kunwarfaiq@gmail.com"><img src="https://img.shields.io/badge/Gmail-238636?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
-<a href="https://linkedin.com/in/kunwarfaiq"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/kunwarfaiq"><img src="https://img.shields.io/badge/LinkedIn-238636?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/kunwarfaiq"><img src="https://img.shields.io/badge/GitHub-238636?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
 <a href="https://github.com/kunwarfaiq"><img src="https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
 
