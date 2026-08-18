@@ -226,18 +226,6 @@ _Certifications in progress — this section will be updated as credentials are 
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme-cover/master/assets/lines.gif" width="100%" />
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kunwarfaiq&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme-cover/master/assets/lines.gif" width="100%" />
-
 ## 📈 Contribution Activity
 
 <div align="center">
