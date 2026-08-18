@@ -259,4 +259,5 @@ src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer" width="100%"/>
 
+</div>
 
