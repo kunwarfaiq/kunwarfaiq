@@ -38,7 +38,8 @@
 <div align="center">
   
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
-<div align="center">
+
+<div/>
   
 <br/>
 
@@ -168,8 +169,6 @@ Led the media and design department for the university's premier tech society, o
 <img src="https://raw.githubusercontent.com/andreasbm/readme-cover/master/assets/lines.gif" width="100%" />
 
 ## 🏆 Achievements
-
-<div align="center">
 
 | Recognition | Details |
 |---|---|
