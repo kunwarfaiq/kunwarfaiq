@@ -263,12 +263,7 @@ src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake
 </p>
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kunwarfaiq/kunwarfaiq/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme-cover/master/assets/lines.gif" width="100%" />
-
+  
 ## 🎯 Current Focus
 
 ```yaml
