@@ -1,31 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Kunwar%20Faiq%20Azeem&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Data%20Science&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14&height=280&section=header&text=Kunwar%20Faiq%20Azeem&fontSize=52&fontColor=E6EDF3&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Data%20Science&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+Systems;RAG+Pipelines+%26+LLM+Orchestration;Final-Year+Data+Science+Student;Turning+Data+Into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+Systems;RAG+Pipelines+%26+LLM+Orchestration;Final-Year+Data+Science+Student;Turning+Data+Into+Decisions" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/DHA_Suffa_University-CGPA_3.43%2F4.00-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/BS_Data_Science-Expected_2027-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white" />
-<img src="https://img.shields.io/badge/📍_Karachi,_Pakistan-4C1D95?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DHA_Suffa_University-CGPA_3.43%2F4.00-238636?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=161B22" />
+<img src="https://img.shields.io/badge/BS_Data_Science-Expected_2027-2EA043?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=161B22" />
+<img src="https://img.shields.io/badge/📍_Karachi,_Pakistan-3FB950?style=for-the-badge&labelColor=161B22" />
 
 <br/><br/>
 
-<a href="https://github.com/kunwarfaiq"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/kunwarfaiq"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:kunwarfaiq@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/kunwarfaiq"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/kunwarfaiq"><img src="https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://linkedin.com/in/kunwarfaiq"><img src="https://img.shields.io/badge/LinkedIn-238636?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
+<a href="mailto:kunwarfaiq@gmail.com"><img src="https://img.shields.io/badge/Email-238636?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://github.com/kunwarfaiq"><img src="https://img.shields.io/badge/GitHub-238636?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=kunwarfaiq&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/kunwarfaiq?style=for-the-badge&color=8b5cf6&labelColor=1e1033&logo=github" />
-<img src="https://img.shields.io/github/stars/kunwarfaiq?style=for-the-badge&color=7c3aed&labelColor=1e1033&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=kunwarfaiq&style=for-the-badge&color=3fb950&labelColor=161b22&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/kunwarfaiq?style=for-the-badge&color=2ea043&labelColor=161b22&logo=github" />
+<img src="https://img.shields.io/github/stars/kunwarfaiq?style=for-the-badge&color=238636&labelColor=161b22&logo=github" />
 
 </div>
 
@@ -180,10 +180,10 @@ Led the media and design department for the university's premier tech society, o
 
 _Certifications in progress — this section will be updated as credentials are earned._
 
-<img src="https://img.shields.io/badge/AWS-In_Progress-8B5CF6?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-In_Progress-7C3AED?style=flat-square&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/NPTEL-In_Progress-6D28D9?style=flat-square&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco-In_Progress-5B21B6?style=flat-square&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-In_Progress-238636?style=flat-square&logo=amazonaws&logoColor=white&labelColor=161B22" />
+<img src="https://img.shields.io/badge/Oracle-In_Progress-2EA043?style=flat-square&logo=oracle&logoColor=white&labelColor=161B22" />
+<img src="https://img.shields.io/badge/NPTEL-In_Progress-3FB950?style=flat-square&logo=googlescholar&logoColor=white&labelColor=161B22" />
+<img src="https://img.shields.io/badge/Cisco-In_Progress-56D364?style=flat-square&logo=cisco&logoColor=white&labelColor=161B22" />
 
 </div>
 
@@ -193,10 +193,10 @@ _Certifications in progress — this section will be updated as credentials are 
 
 <div align="center">
 
-<a href="https://leetcode.com/kunwarfaiq"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=8B5CF6" /></a>
-<a href="https://www.geeksforgeeks.org/user/kunwarfaiq"><img src="https://img.shields.io/badge/GeeksforGeeks-1e1033?style=for-the-badge&logo=geeksforgeeks&logoColor=A78BFA" /></a>
-<a href="https://www.hackerrank.com/kunwarfaiq"><img src="https://img.shields.io/badge/HackerRank-1e1033?style=for-the-badge&logo=hackerrank&logoColor=7C3AED" /></a>
-<a href="https://www.codechef.com/users/kunwarfaiq"><img src="https://img.shields.io/badge/CodeChef-1e1033?style=for-the-badge&logo=codechef&logoColor=6D28D9" /></a>
+<a href="https://leetcode.com/kunwarfaiq"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=3FB950" /></a>
+<a href="https://www.geeksforgeeks.org/user/kunwarfaiq"><img src="https://img.shields.io/badge/GeeksforGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=3FB950" /></a>
+<a href="https://www.hackerrank.com/kunwarfaiq"><img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=3FB950" /></a>
+<a href="https://www.codechef.com/users/kunwarfaiq"><img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=3FB950" /></a>
 
 </div>
 
@@ -206,10 +206,11 @@ _Certifications in progress — this section will be updated as credentials are 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunwarfaiq&theme=tokyonight&hide_border=true&background=0d0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunwarfaiq&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950" width="48%" />
 
 <br/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=kunwarfaiq&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=3FB950&text_color=8B949E" width="48%" />
 
 </div>
 
@@ -217,7 +218,7 @@ _Certifications in progress — this section will be updated as credentials are 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kunwarfaiq&theme=react-dark&hide_border=true&bg_color=0d0221&color=A78BFA&line=8B5CF6&point=ffffff" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kunwarfaiq&theme=github-compact&hide_border=true&bg_color=0D1117&color=8B949E&line=3FB950&point=E6EDF3" width="100%" />
 
 </div>
 
@@ -236,16 +237,16 @@ srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-sn
 src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
 </picture>
 </p>
-  
+
 
 ## 📬 Connect
 
 <div align="center">
 
-<a href="mailto:kunwarfaiq@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/kunwarfaiq"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/kunwarfaiq"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/kunwarfaiq"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:kunwarfaiq@gmail.com"><img src="https://img.shields.io/badge/Gmail-238636?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://linkedin.com/in/kunwarfaiq"><img src="https://img.shields.io/badge/LinkedIn-238636?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://github.com/kunwarfaiq"><img src="https://img.shields.io/badge/GitHub-238636?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://github.com/kunwarfaiq"><img src="https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
 
 </div>
 
@@ -255,7 +256,6 @@ src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake
 
 *"Build systems that reason, not just respond."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14&height=140&section=footer" width="100%"/>
 
 </div>
-
