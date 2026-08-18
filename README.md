@@ -250,6 +250,17 @@ _Certifications in progress — this section will be updated as credentials are 
 
 ## 🐍 Contribution Snake
 
+</div>
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
+<img alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
+</picture>
+</p>
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/kunwarfaiq/kunwarfaiq/output/github-contribution-grid-snake-dark.svg" width="100%" />
@@ -299,14 +310,4 @@ current_focus:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer" width="100%"/>
 
-</div>
-<p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
-<img alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
-</picture>
-</p>
+
