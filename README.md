@@ -16,10 +16,10 @@
 
 <br/><br/>
 
-<a href="https://github.com/kunwarfaiq"><img src="https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
-<a href="https://linkedin.com/in/kunwarfaiq"><img src="https://img.shields.io/badge/LinkedIn-238636?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
-<a href="mailto:kunwarfaiq@gmail.com"><img src="https://img.shields.io/badge/Email-238636?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
-<a href="https://github.com/kunwarfaiq"><img src="https://img.shields.io/badge/GitHub-238636?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://github.com/kunwarfaiq">
+<a href="https://linkedin.com/in/kunwarfaiq">
+<a href="mailto:kunwarfaiq@gmail.com"></a>
+<a href="https://github.com/kunwarfaiq"></a>
 
 <br/><br/>
 
@@ -209,8 +209,6 @@ _Certifications in progress — this section will be updated as credentials are 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunwarfaiq&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950" width="48%" />
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=kunwarfaiq&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=3FB950&text_color=8B949E" width="48%" />
 
 </div>
 
