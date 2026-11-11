@@ -1,0 +1,13 @@
+# Settings for pedrocatalao/github-cool-readme (the dot-matrix cards)
+# https://github.com/pedrocatalao/github-cool-readme
+style: oled          # pinball-style dot-matrix displays
+color: amber         # amber, green or theme
+matrix: true         # round LEDs; false = square pixels
+cards: [summary, languages, contributions, weekly]
+include:
+  private: true      # count private work (totals only, repo names never shown)
+  orgs: true
+summary:
+  ring: github       # GitHub logo in the ring
+languages:
+  count: 6
